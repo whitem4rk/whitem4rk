@@ -88,7 +88,6 @@
         <td>
             <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/>
             <img src="https://img.shields.io/badge/Mockito-83B81A?style=flat-square&logo=Mockito&logoColor=white"/>
-	    <img src="https://img.shields.io/badge/Kotest-7F52FF?style=flat-square&logo=Kotest&logoColor=white"/>
         </td>
     </tr>
 	<tr>
@@ -97,6 +96,13 @@
             <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
         </td>
 	</tr>
+	<tr>
+        <th rowspan="1">🌱 Security</th>
+        <td>Position</td>
+        <td>
+            Web Hacking
+        </td>
+    </tr>
 	<tr>
         <th rowspan="4">👨‍👩‍👦‍👦 Collaboration</th>
         <td>API Test</td>
@@ -132,7 +138,6 @@
         <td colspan="2">
             <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
             <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
-            <img src="https://img.shields.io/badge/ElastiCache-527FFF?style=flat-square&logo=Amazon AWS&logoColor=white"/>
             <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
         </td>
     </tr>
