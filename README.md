@@ -19,7 +19,7 @@
 - Good code is code that can be expanded easily.
 
 
-<h3 style="margin-top:30px">💪 Tech Stacks</h3>
+## 💪 Tech Stacks
 
 <div>
 <table>
@@ -34,6 +34,7 @@
         <td>Framework</td>
         <td>
             <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Spring Cloud Config-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>		
         </td>
     </tr>
 	<tr>
@@ -44,9 +45,10 @@
         </td>
     </tr>
     <tr>
-        <td>View Template</td>
+        <td>View Monitoring</td>
         <td>
-            <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
+            <img src="https://img.shields.io/badge/-Grafana-5f5f5f?style=flat-square&logo=grafana&labelColor=ffffff"/>
+            <img src="https://img.shields.io/badge/Prometheus-20232A?style=flat-square&logo=prometheus"/>
         </td>
     </tr>
     <tr>
@@ -97,7 +99,7 @@
         </td>
 	</tr>
 	<tr>
-        <th rowspan="1">🌱 Security</th>
+        <th rowspan="1">⚡ Security</th>
         <td>Position</td>
         <td>
             Web Hacking
