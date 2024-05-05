@@ -34,7 +34,7 @@
         <td>Framework</td>
         <td>
             <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Spring Cloud Config-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>		
+            <img src="https://img.shields.io/badge/Spring Cloud Config-6DB33F?style=flat-square&logo=Spring Cloud Config&logoColor=white"/>		
         </td>
     </tr>
 	<tr>
@@ -45,7 +45,7 @@
         </td>
     </tr>
     <tr>
-        <td>View Monitoring</td>
+        <td>Monitoring</td>
         <td>
             <img src="https://img.shields.io/badge/-Grafana-5f5f5f?style=flat-square&logo=grafana&labelColor=ffffff"/>
             <img src="https://img.shields.io/badge/Prometheus-20232A?style=flat-square&logo=prometheus"/>
@@ -146,7 +146,7 @@
     <tr>
         <th>🏆 Problem Solving (Algorithm)</th>
         <td colspan="2">
-            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+            <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
         </td>
     </tr>
 </table>	
